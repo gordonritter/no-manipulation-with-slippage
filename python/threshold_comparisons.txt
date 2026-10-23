@@ -1,0 +1,7 @@
+Permanent envelope product floor: 0.015625
+Envelope floor / exact threshold in: 9.49648070214264956340400987695 9.49648070214264956609675022671
+Transient critical common coefficient in: 0.02100625 0.3567
+Certified upper product bound: 0.127234755
+Lower product bound: 0.0004412625390625
+Ratio of displayed product bounds: 288.342831617479708659128932331
+PASS: all sign, bound, and rounding checks use exact rational arithmetic.

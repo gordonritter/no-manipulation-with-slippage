@@ -1,0 +1,7 @@
+{"gamma": "1/10", "constant": "nu", "cells": 2048, "lower": "0.58499122", "upper": "0.58499454", "certified_three_decimals": "0.585", "coarse_second_eigenvalue_upper": "0.11304085", "finite_matrix_interval_width_upper": "0.00000000000000000001"}
+{"gamma": "1/10", "constant": "a", "cells": 2048, "lower": "0.35511777", "upper": "0.35512324", "certified_three_decimals": "0.355", "coarse_second_eigenvalue_upper": "0.29579418", "finite_matrix_interval_width_upper": "0.00000000000000000001"}
+{"gamma": "1/4", "constant": "nu", "cells": 2048, "lower": "0.76336802", "upper": "0.76340853", "certified_three_decimals": "0.763", "coarse_second_eigenvalue_upper": "0.37199663", "finite_matrix_interval_width_upper": "0.00000000000000000001"}
+{"gamma": "1/4", "constant": "a", "cells": 2048, "lower": "0.42452126", "upper": "0.42459452", "certified_three_decimals": "0.425", "coarse_second_eigenvalue_upper": "0.46293825", "finite_matrix_interval_width_upper": "0.00000000000000000001"}
+{"gamma": "2/5", "constant": "nu", "cells": 16384, "lower": "1.04620433", "upper": "1.04624692", "certified_three_decimals": "1.046", "coarse_second_eigenvalue_upper": "0.91138289", "finite_matrix_interval_width_upper": "0.00000000000000000006"}
+{"gamma": "2/5", "constant": "a", "cells": 16384, "lower": "0.51760116", "upper": "0.51768780", "certified_three_decimals": "0.518", "coarse_second_eigenvalue_upper": "0.79162824", "finite_matrix_interval_width_upper": "0.00000000000000000007"}
+PASS: all six numerical entries round as reported; gamma=0 uses exact formulas.
